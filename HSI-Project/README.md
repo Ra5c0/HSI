@@ -1,5 +1,4 @@
-# Hardware Software Interface
-### Project : Car ECU Software
+# Project : Car ECU Software
 
 ## API Compilation
 
